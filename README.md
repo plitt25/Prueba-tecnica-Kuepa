@@ -1,4 +1,4 @@
-
+Repositorio del frontend: https://github.com/plitt25/kuepa-classrom
 Guía de Configuración del Proyecto
 
 1. Configuración del Backend
